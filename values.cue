@@ -7,7 +7,7 @@ package main
 
 // Defaults
 values: {
-	message: "Hello World"
+	message: "Hello Yash"
 	image: {
 		repository: "nginx"
 		digest:     ""
