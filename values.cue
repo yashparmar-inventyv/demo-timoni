@@ -9,9 +9,9 @@ package main
 values: {
 	message: "Hello World"
 	image: {
-		repository: "cgr.dev/chainguard/nginx"
-		digest:     "sha256:3dd8fa303f77d7eb6ce541cb05009a5e8723bd7e3778b95131ab4a2d12fadb8f"
-		tag:        "1.25.3"
+		repository: "nginx"
+		digest:     ""
+		tag:        "latest"
 	}
 	test: image: {
 		repository: "cgr.dev/chainguard/curl"
